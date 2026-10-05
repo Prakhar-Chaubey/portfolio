@@ -25,14 +25,14 @@ function About(){
                     </li>
                     <li>
                         <span className="fact-label">GitHub</span>
-                        <a href="https://github.com/Prakhar-Chaubey" target="_blank" rel="noreferrer">
-                            GitHub Profile
+                        <a href="https://github.com/" target="_blank" rel="noreferrer">
+                        github.com/Prakhar-Chaubey
                         </a>
                     </li>
                     <li>
                         <span className="fact-label">LinkedIn</span>
-                        <a href="https://linkedin.com" taget="_blank" rel="noreferrer">
-                            LinkedIn Profile
+                        <a href="https://linkedin.com/" taget="_blank" rel="noreferrer">
+                        https://www.linkedin.com/in/prakhar-chaubey-920257416?utm_source=share_via&utm_content=profile&utm_medium=member_android
                         </a>
                     </li>
                 </ul>

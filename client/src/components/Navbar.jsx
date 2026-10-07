@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./Navbar.css";
-function Navbar(){
+function Navbar({profile}){
     // menuOpen = is the mobile menu open right now? (true/false)
     const [menuOpen, setMenuOpen] = useState(false);
     function toggleMenu(){
@@ -13,7 +13,7 @@ function Navbar(){
         <header className="navbar">
             <nav className="container navbar-inner">
                 <a href="#home" className="navbar-logo" onClick={closeMenu}>
-                    Prakhar Chaubey
+                    {profile.name}
                 </a>
                 <button
                     className="navbar-toggle"

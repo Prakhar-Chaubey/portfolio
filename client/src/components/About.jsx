@@ -26,13 +26,13 @@ function About(){
                     <li>
                         <span className="fact-label">GitHub</span>
                         <a href="https://github.com/Prakhar-Chaubey" target="_blank" rel="noreferrer">
-                            GitHub Profile
+                            github.com/Prakhar-Chaubey
                         </a>
                     </li>
                     <li>
                         <span className="fact-label">LinkedIn</span>
                         <a href="https://linkedin.com" taget="_blank" rel="noreferrer">
-                            LinkedIn Profile
+                            linkedin.com/Prakhar Chaubey
                         </a>
                     </li>
                 </ul>
